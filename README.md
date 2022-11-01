@@ -4,7 +4,7 @@
 #### Estou usando o Google Colab e o Jupyter Notebook para desenvolver as atividades, que estão aqui!
 ****
 
-## Cursos Realizados:
+### Cursos Realizados:
 __Python para DataScience__
 * Duração do Curso: 10h
 * Link do Curso: [clique aqui](https://cursos.alura.com.br/course/python-intro)
@@ -13,11 +13,13 @@ __Python para DataScience__
 
 ****
 ### Cursos em Andamento:
-__Python para Data Science: Funções, Pacotes e Pandas__
-* Duração do Curso: 10h
-* Link do Curso: [clique aqui](https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas)
-* Link das Atividades:
-* Certificado:
+__Python para Data Science: linguagem e Numpy__
+* Duração: 12h
+*L ink do Curso: [clique aqui](https://cursos.alura.com.br/course/python-tipos-listas-numpy)
+
 
 ****
 ### Cursos Futuros:
+__Python para Data Science: Funções, Pacotes e Pandas__
+* Duração do Curso: 10h
+* Link do Curso: [clique aqui](https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas)
