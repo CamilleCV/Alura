@@ -4,22 +4,29 @@
 #### Estou usando o Google Colab e o Jupyter Notebook para desenvolver as atividades, que estão aqui!
 ****
 
-### Cursos Realizados:
-__Python para DataScience__
-* Duração do Curso: 10h
-* Link do Curso: [clique aqui](https://cursos.alura.com.br/course/python-intro)
-* Link das Atividades: [clique aqui](https://github.com/CamilleCV/Alura/blob/main/Python_DataScience_01.ipynb)
-* Certificado: [clique aqui](https://www.linkedin.com/feed/update/urn:li:activity:6993240239754391552/)
+### Planos de Estudos:
 
-****
-### Cursos em Andamento:
-__Python para Data Science: linguagem e Numpy__
-* Duração: 12h
-*L ink do Curso: [clique aqui](https://cursos.alura.com.br/course/python-tipos-listas-numpy)
+__Python para Data Science__ (2/9)
+
+Aprenda Python com foco em Data Science [aqui](https://cursos.alura.com.br/formacao-python-data-science)!
+* Carga Horária: 86h
+* Quantidade de Cursos: 9
+* Vídeo Extra: 1
+* Podcasts: 3
+
+__Python e Orientação a Objetos__ (0/9)
+Aprenda a Linguagem, Mergulhando no Paradigma da rientação a Objetos [aqui](https://cursos.alura.com.br/formacao-Python-linguagem)!
+* Carga Horária: 93h
+* Quantidade de Cursos: 9
+* Vídeo Extra: 1
+* Podcasts: 1
+* Artigos: 10
+
+__Machine Learning__ (0/8)
+Aprenda a Tecnologia que não para de Crescer [aqui](https://cursos.alura.com.br/formacao-machine-learning)!
+* Carga Horária: 76h
+* Quantidade de Cursos: 8
+* Vídeo Extra: 3
+* Artigos: 2
 
 
-****
-### Cursos Futuros:
-__Python para Data Science: Funções, Pacotes e Pandas__
-* Duração do Curso: 10h
-* Link do Curso: [clique aqui](https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas)
