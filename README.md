@@ -6,7 +6,7 @@
 
 ## Planos de Estudos:
 
-### __Python para Data Science__ (2/9)
+### __Python para Data Science__ (3/9)
 Aprenda Python com foco em Data Science [aqui](https://cursos.alura.com.br/formacao-python-data-science)!
 * Carga Horária: 86h
 * Quantidade de Cursos: 9
