@@ -18,7 +18,7 @@ Aprenda Python com foco em Data Science [aqui](https://cursos.alura.com.br/forma
 <br> 
 <br>
 
-### __Machine Learning__ (5/8)
+### __Machine Learning__ (8/8)
 Aprenda a Tecnologia que não para de Crescer [aqui](https://cursos.alura.com.br/formacao-machine-learning)!
 * Carga Horária: 76h
 * Quantidade de Cursos: 8
